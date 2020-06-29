@@ -1,0 +1,19 @@
+{
+  "posts": [
+    {
+      "title": "Oh lord Jetson made another one",
+      "author": "Jetson",
+      "id": "721dfa2f-fd70-49aa-b624-cd8ef74821ae"
+    },
+    {
+      "title": "vue 3 composition api",
+      "author": "evan you",
+      "id": "a1fb543f-dc82-4f24-ae75-6043f0e08a32"
+    },
+    {
+      "title": "some posts changed",
+      "author": "kg",
+      "id": "e1006c0e-ec2b-4a43-9720-e3df59f4ea9e"
+    }
+  ]
+}
