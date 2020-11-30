@@ -1,5 +1,7 @@
 # vue-renderless
 
+### This repo will show you how you can create reusable renderless components with Vue
+
 ## Project setup
 ```
 npm install
